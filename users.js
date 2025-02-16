@@ -1,3 +1,6 @@
+
+
+
 const users =  [
     {
         "id": 7,
@@ -13,3 +16,6 @@ const users =  [
         "last_name": "Ferguson",
         "avatar": "https://reqres.in/img/faces/8-image.jpg"
     }];
+
+
+ module.exports = users;
